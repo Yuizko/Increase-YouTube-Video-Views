@@ -1,10 +1,10 @@
 {
-    "tokenapp": "",
-    "android": "",
-    "device": "",
-    "locale": "",
-    "deviceToken": "",
-    "managerAPI": "",
+    "tokenapp": "548ddce0601f11eeb8c3ebbee23eea51",
+    "android": "27",
+    "device": "Samsung SM-G610F",
+    "locale": "VN",
+    "deviceToken": "ft5RLuaDQrO4LeHyudjj68:APA91bE7Jfp352ADIbPpd7u1Y2MSj3AHgKcE4kr_R2AOqkOI__QhzmcaKK0RsXBg_xDLhgjeNWAsK06Q4DHVFe5_iIQRok3MJ3QCWVtZdsgTkCZPe75XhTWcl0okuUw0RgbGkSTYe-QI",
+    "managerAPI": "djtmaemii",
     "proxies": {
         "http": ""
     },
